@@ -20,6 +20,7 @@
 
 
 ## EtherCAT Software Configuration
+<img width="592" alt="image" src="https://user-images.githubusercontent.com/125642743/225541670-3c806367-0273-4b0c-b88c-8c2d0bfa8a1d.png">
 
 
 ## UV Bipolar Current Control
