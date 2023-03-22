@@ -6,7 +6,7 @@
 1. Drive manual website
     DC Driver：
     - AEV Series: [AEV-180V-10A](https://copleycontrols.com/en/products/aev-180-10/) 
-    - Accenlent Series: [BE2-90V-3A](https://copleycontrols.com/en/products/be2-090-06/) (Dual Axis)
+    - Accenlent Series: [BE2-90V-6A](https://copleycontrols.com/en/products/be2-090-06/) (Dual Axis)
     
     AC Driver：
     - Xenus Series：[XEL-230V-18A](https://copleycontrols.com/en/products/xel-230-18/)
